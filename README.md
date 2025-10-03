@@ -15,3 +15,6 @@ Mostly going to be for easyeffects preset and cutom stuff and for dolby atmos
 **https://github.com/JackHack96/EasyEffects-Presets?tab=readme-ov-file**               *this one is mostly for the all types of presets and it also have dolby atmos*
 
 
+
+**https://github.com/wwmm/easyeffects/wiki/Impulse-Responses**                          *if don't know what to do then here are some discussions that gonna help you*
+
