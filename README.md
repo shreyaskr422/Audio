@@ -26,21 +26,21 @@ Mostly going to be for easyeffects preset and cutom stuff and for dolby atmos
 
 
 
-    **Update/Install pipewire (reboot after installing)**
+    Update/Install pipewire (reboot after installing)
 
-    **Install EasyEffects (flatpak)**
+    Install EasyEffects (flatpak)
 
-    **Open the program**
+    Open the program
 
-    **Open the "plugins" tab on the bottom**
+    Open the "plugins" tab on the bottom
 
-    **Click "Add plugin"**
+    Click "Add plugin"
 
-    **Add a convolver**
+    Add a convolver
 
-    **Select "Impulses" on the right**
+    Select "Impulses" on the right
 
-    **Select "Dolby ATMOS" from the list**
+    Select "Dolby ATMOS" from the list
 
 **Dolby Atmos in linux!**
 
