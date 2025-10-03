@@ -42,5 +42,5 @@ Mostly going to be for easyeffects preset and cutom stuff and for dolby atmos
 
     Select "Dolby ATMOS" from the list
 
-**Dolby Atmos in linux!**
+**Dolby Atmos in linux!😎🤏😳🕶🤏**
 
